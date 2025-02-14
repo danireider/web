@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styles</title>
+</head>
+<body style="background-color: powderblue; ">
+    <h1 style="background-color: yellow; color:red; font-family:'Arial'; font-size: 500%; text-align: center">Titulo uno</h1>
+    <p style="background-color:white; font-size: 100px; text-align:right; color:blue; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Párrafo</p>
+
+
+</body>
+</html>
