@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejemplos Básicos</title>
+</head>
+<body>
+    
+    <h1>Titulo uno</h1>
+    <p style="color:red" title="Ejemplo de párrafo">Parrafo uno</p>
+
+    <h2>Titulo dos</h2>
+    <h3>Titulo tres</h3>
+
+
+    <a href="https://www.google.com" target="_blank">Primer link</a><br>
+
+    <img src="https://ethic.es/wp-content/uploads/2023/03/imagen.jpg" alt="Imagen de ejemplo" width="1000" height="500">
+</body>
+</html>
